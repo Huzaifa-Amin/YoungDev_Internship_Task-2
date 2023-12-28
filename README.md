@@ -1,6 +1,6 @@
-# Young-Dev-Internship
+# Young-Dev-Internship - Task 2
 
-### Responsive Car Landing Page
+### Creating a Responsive Car Landing Page
 
 - Responsive Car Landing Page Using HTML CSS & JavaScript
 - Contains animated images.
